@@ -1,0 +1,2 @@
+aspect,mention_count,negative_count,negative_rate,engagement_sum,negative_engagement_sum,priority_score,interpretation,next_action
+thermal_management,1,1,1.0000,58.00,58.00,31.66,Gaming heat is a high-friction phone usage issue in this sample.,Investigate thermal behavior during gaming and compare with support tickets.

@@ -1,0 +1,12 @@
+aspect,mention_count,negative_count,negative_rate,engagement_sum,negative_engagement_sum,priority_score
+thermal_management,1,1,1.0000,58.00,58.00,31.66
+battery_life,1,1,1.0000,42.00,42.00,31.34
+fingerprint_unlock,1,1,1.0000,31.00,31.00,31.12
+speaker_quality,1,1,1.0000,25.00,25.00,31.00
+charging_speed,1,1,1.0000,17.00,17.00,30.84
+camera,1,0,0.0000,42.00,0.00,0.00
+display,1,0,0.0000,58.00,0.00,0.00
+performance,1,0,0.0000,58.00,0.00,0.00
+face_unlock,1,0,0.0000,31.00,0.00,0.00
+form_factor,1,0,0.0000,25.00,0.00,0.00
+pricing_storage,1,0,0.0000,17.00,0.00,0.00
