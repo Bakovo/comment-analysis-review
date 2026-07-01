@@ -1,0 +1,6 @@
+claim_id,claim_text,issue_type,numerator,denominator,denominator_scope,evidence_status,risk_level,recommended_fix
+claim-001,"睡眠呼吸监测占海外社媒讨论总量的 49.9%。",mixed_denominator,6230,12489,"产品标注记录，不是全部原始社媒记录",partial,high,"改写为：在 12,489 条产品标注记录中，睡眠呼吸监测出现 6,230 条，占 49.9%。"
+claim-002,"Fitbit 口碑最好，因为正面率达到 66.7%。",small_sample_ranking,2,3,"Fitbit 提及",weak,high,"降级为案例级信号；不能用 3 条评论做品牌口碑排名。"
+claim-003,"TikTok 用户是年轻种草人群，最适合用潮流化产品定位触达。",platform_stereotype,,,"缺少平台讨论交叉证据",missing,medium,"改写为平台讨论假设，并补充 platform x label x content type x sentiment x engagement 证据。"
+claim-004,"睡眠佩戴舒适度负面率最高，为 52.3%；夜间生理指标监测负面率第二高，为 69.6%。",ranking_conflict,94,135,"夜间生理指标监测提及",strong,high,"区分负面率最高、负面声量最大和业务优先级最高。"
+claim-005,"Shokz 可以把产品定位成更舒适的 CPAP 替代方案，并强调医疗级准确性。",strategy_leap,,,"策略结论缺少评论证据支持",missing,high,"改写为：面向 CPAP 人群的低负担辅助监测和趋势记录工具，并补充准确性和临床边界验证。"

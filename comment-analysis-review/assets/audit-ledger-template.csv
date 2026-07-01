@@ -1,0 +1,3 @@
+claim_id,claim_text,issue_type,numerator,denominator,denominator_scope,evidence_status,risk_level,recommended_fix
+claim-001,"Sleep breathing monitoring accounts for 49.9%.",missing_denominator,,,,missing,high,"Rewrite with numerator, denominator, and scope."
+claim-002,"Brand A has the best reputation based on 3 comments.",small_sample_ranking,2,3,"Brand A mentions",weak,high,"Downgrade to case-level observation; do not rank."
