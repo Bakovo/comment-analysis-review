@@ -1,6 +1,0 @@
-interface:
-  display_name: "Comment Analysis Review"
-  short_description: "Evidence-backed comment analysis checks."
-  default_prompt: "Use $comment-analysis-review to analyze these comments or review this AI-generated insight report."
-policy:
-  allow_implicit_invocation: true
