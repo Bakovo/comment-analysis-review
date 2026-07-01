@@ -1,6 +1,0 @@
-interface:
-  display_name: "Comment Analysis Review"
-  short_description: "Audit comments into grounded insights."
-  default_prompt: "Use $comment-analysis-review to analyze these comments or review this AI-generated insight report. 使用 $comment-analysis-review 复验评论分析报告时，请自动按用户语言选择中文或英文规则。"
-policy:
-  allow_implicit_invocation: true

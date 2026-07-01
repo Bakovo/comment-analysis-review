@@ -1,4 +1,0 @@
-comment_id,original_text,platform,timestamp,rating,engagement_count,aspect,opinion,sentiment,evidence,business_action,confidence,theme,subtheme,extraction_notes
-example-001,"The design looks premium, but the battery is weak and support replies slowly.",reddit,2026-06-01,,12,design,looks premium,positive,design looks premium,strengthen as selling point,high,product experience,design,
-example-001,"The design looks premium, but the battery is weak and support replies slowly.",reddit,2026-06-01,,12,battery,battery is weak,negative,battery is weak,investigate power use and expectation gap,high,product experience,battery,
-example-001,"The design looks premium, but the battery is weak and support replies slowly.",reddit,2026-06-01,,12,service,support replies slowly,negative,support replies slowly,improve support SLA,high,service,response time,
