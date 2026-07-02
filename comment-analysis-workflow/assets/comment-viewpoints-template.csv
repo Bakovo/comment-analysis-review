@@ -1,3 +1,0 @@
-comment_id,original_text,source,aspect,opinion,sentiment,evidence,business_action,confidence,engagement_count
-template-001,"The camera is sharp in daylight, but the battery drops too fast during video calls.",example,camera,camera is sharp in daylight,positive,camera is sharp in daylight,use daylight camera quality in product messaging,high,42
-template-001,"The camera is sharp in daylight, but the battery drops too fast during video calls.",example,battery_life,battery drops too fast during video calls,negative,battery drops too fast during video calls,test video-call battery drain and set clearer battery expectations,high,42
