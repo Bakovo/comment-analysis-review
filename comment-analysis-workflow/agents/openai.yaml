@@ -1,6 +1,0 @@
-interface:
-  display_name: "Comment Analysis Workflow"
-  short_description: "Turn comments into aspect-level insights."
-  default_prompt: "Use $comment-analysis-workflow to analyze these comments strictly with the 7-step workflow and the method map: preparation, cleaning, frequency/TF-IDF/co-occurrence exploration, LDA/NMF/BERTopic theme discovery, aspect-level or LLM viewpoint extraction, priority statistics, and evidence check. 使用 $comment-analysis-workflow 严格按 7 步流程和方法映射分析评论；中文交付默认使用中文字段名。"
-policy:
-  allow_implicit_invocation: true
