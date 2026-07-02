@@ -1,0 +1,6 @@
+comment_id,original_text,source,rating,created_at,engagement_count
+c001,"The camera is sharp in daylight, but the battery drops too fast during video calls.",amazon,3,2026-06-01,42
+c002,"The screen is bright outdoors and scrolling feels smooth, but the phone gets hot after ten minutes of gaming.",bestbuy,4,2026-06-02,58
+c003,"Face unlock is quick, but fingerprint unlock fails when my fingers are slightly wet.",reddit,3,2026-06-03,31
+c004,"I love the compact size, though the speakers sound thin during calls.",youtube,4,2026-06-04,25
+c005,"The price is fair for the storage, but charging takes almost two hours.",twitter,3,2026-06-05,17
