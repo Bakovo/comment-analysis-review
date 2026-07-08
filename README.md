@@ -89,7 +89,7 @@ README.md                   项目说明
 把 `comment-analysis-workflow` 文件夹复制到本地 Codex skills 目录：
 
 ```text
-Windows: C:\Users\<you>\.codex\skills\comment-analysis-workflow
+Windows: D:\.codex\skills\comment-analysis-workflow
 macOS/Linux: ~/.codex/skills/comment-analysis-workflow
 ```
 
